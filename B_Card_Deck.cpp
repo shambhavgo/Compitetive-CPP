@@ -1,5 +1,16 @@
 #include<bits/stdc++.h>
 using namespace std;
+ // long long n;
+        // cin>>n;
+        // vector<int> v,ans;
+        // for(int i=0;i<n;i++)
+        // {
+        //     int x;cin>>x;
+        //     v.push_back(x);
+        // }
+        // vector<int>::iterator it;
+        
+        // while(v.size()
 int main()
 {
     int t;cin>>t;
