@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+
 int *testhack() 
 { 
     static int val = 5; 
