@@ -8,7 +8,42 @@
     #define ch char
     #define f(i,a,b) for(ll i=a;i<b;i++)
     #define rf(i,a,b) for(ll i=a-1;i>=b;i--)
+    #define Godspeed         define ch char
+    #define f(i,a,b) for(ll i=a;i<b;i++)
+    #define rf(i,a,b) for(ll i=a-1;i>=b;i--)
     #define Godspeed                ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
+    #define vpl vector< pair<ll,ll> >
+    #define vpi vector< pair<int,int> >
+    #define vi vector<int>
+    #define vl vector<ll>define ch char
+    #define f(i,a,b) for(ll i=a;i<b;i++)
+    #define rf(i,a,b) for(ll i=a-1;i>=b;i--)
+    #define Godspeed                ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
+    #define vpl vector< pair<ll,ll> >
+    #define vpi vector< pair<int,int> >
+    #define vi vector<int>
+    #define vl vector<ll>define ch char
+    #define f(i,a,b) for(ll i=a;i<b;i++)
+    #define rf(i,a,b) for(ll i=a-1;i>=b;i--)
+    #define Godspeed                ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
+    #define vpl vector< pair<ll,ll> >
+    #define vpi vector< pair<int,int> >
+    #define vi vector<int>
+    #define vl vector<ll>define ch char
+    #define f(i,a,b) for(ll i=a;i<b;i++)
+    #define rf(i,a,b) for(ll i=a-1;i>=b;i--)
+    #define Godspeed                ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
+    #define vpl vector< pair<ll,ll> >
+    #define vpi vector< pair<int,int> >
+    #define vi vector<int>
+    #define vl vector<ll>define ch char
+    #define f(i,a,b) for(ll i=a;i<b;i++)
+    #define rf(i,a,b) for(ll i=a-1;i>=b;i--)
+    #define Godspeed                ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
+    #define vpl vector< pair<ll,ll> >
+    #define vpi vector< pair<int,int> >
+    #define vi vector<int>
+    #define vl vector<ll>       ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
     #define vpl vector< pair<ll,ll> >
     #define vpi vector< pair<int,int> >
     #define vi vector<int>
